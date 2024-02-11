@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "Collie Clarke <ccla2583@stu.raritanval.edu> (https://github.com/Colli456)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.6",
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslist": "^1.0.0-beta.1"
+  }
 }
